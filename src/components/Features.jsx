@@ -4,22 +4,22 @@ const items = [
   {
     icon: ShieldCheck,
     title: "KYC & Compliance",
-    desc: "Secure identity verification with industry leaders like Sumsub and Veriff.",
+    desc: "Secure identity verification with seamless in-app flow.",
   },
   {
     icon: Wallet,
     title: "Wallet Integration",
-    desc: "Connect MetaMask or WalletConnect and view live USDC balances.",
+    desc: "Connect MetaMask and view balances instantly.",
   },
   {
     icon: Send,
     title: "Instant Remittance",
-    desc: "Send USDC globally with transparent fees and real-time confirmations.",
+    desc: "Send USDC globally with transparent fees.",
   },
   {
     icon: LineChart,
     title: "On/Off Ramp",
-    desc: "Buy USDC with local currency and optionally cash out to INR.",
+    desc: "Buy USDC with local currency and cash out to INR.",
   },
 ];
 

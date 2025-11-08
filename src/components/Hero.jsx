@@ -20,13 +20,13 @@ export default function Hero() {
             <a href="#get-started" className="inline-flex items-center justify-center px-5 py-3 rounded-lg bg-slate-900 text-white hover:bg-slate-800">
               Get Started
             </a>
-            <a href="#learn-more" className="inline-flex items-center justify-center px-5 py-3 rounded-lg bg-white text-slate-900 ring-1 ring-slate-300 hover:bg-slate-50">
-              Learn More
+            <a href="#kyc" className="inline-flex items-center justify-center px-5 py-3 rounded-lg bg-white text-slate-900 ring-1 ring-slate-300 hover:bg-slate-50">
+              Complete KYC
             </a>
           </div>
         </div>
         <div className="relative h-[420px] sm:h-[520px] lg:h-[560px]">
-          <Spline scene="https://prod.spline.design/41MGRk-UDPKO-l6W/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+          <Spline scene="https://prod.spline.design/qQUip0dJPqrrPryE/scene.splinecode" style={{ width: '100%', height: '100%' }} />
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-white/70 via-transparent to-transparent" />
         </div>
       </div>
